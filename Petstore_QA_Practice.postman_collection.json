@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
 		"name": "Petstore QA Practice (CRUD)",
-		"description": "Практика для портфолио QA: коллекция из 7 запросов с автопроверками статусов, тела, заголовков и времени ответа.",
+		"description": "Коллекция из 7 запросов с автопроверками статусов, тела, заголовков и времени ответа.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
